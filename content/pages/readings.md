@@ -52,9 +52,9 @@ Hamilton, James D. _Time Series Analysis_. Princeton, NJ: Princeton University P
 
 ### Additional readings
 
-Fernández-Villaverde, Jesús, Juan Francisco Rubio-Ramírez, and Thomas Sargent. "A, B, C's (and D's) for Understanding VARs." Federal Reserve Bank of Atlanta, Working Paper 2005-9, May 2005. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.econstor.eu/bitstream/10419/100923/1/wp2005-09.pdf))
+Fernández-Villaverde, Jesús, Juan Francisco Rubio-Ramírez, and Thomas Sargent. "A, B, C's (and D's) for Understanding VARs." Federal Reserve Bank of Atlanta, Working Paper 2005-9, May 2005. ([PDF](https://www.econstor.eu/bitstream/10419/100923/1/wp2005-09.pdf))
 
-Chari, V. V., Patrick J. Kehoe, and Ellen R. McGrattan. "A Critique of Structural VARs Using Business Cycle Theory." Federal Reserve Bank of Minneapolis Federal Reserve, Research Department Staff Report 364 (May 2007). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.minneapolisfed.org/research/WP/WP631.pdf))
+Chari, V. V., Patrick J. Kehoe, and Ellen R. McGrattan. "A Critique of Structural VARs Using Business Cycle Theory." Federal Reserve Bank of Minneapolis Federal Reserve, Research Department Staff Report 364 (May 2007). ([PDF](http://www.minneapolisfed.org/research/WP/WP631.pdf))
 
 
 {{< tdclose >}}
@@ -85,13 +85,13 @@ Galí, Jordi. "How Well Does the IS-LM Model Fit Postwar U.S. Data?" _The Quarte
 
 [![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262572293) Galí, Jordi, and P. Rabanal. "Technology Shocks and Aggregate Fluctuations; How Well Does the RBC Model Fit the Post-war U.S. Data?" (and comments by McGrattan and Ramey). In [_National Bureau of Economic Research Macroeconomics Annual_](https://mitpress.mit.edu/9780262572293). Edited by Mark Gertler and Kenneth Rogoff. Cambridge, MA: MIT Press, 2004, pp. 224-317. ISBN: 9780262572293.
 
-Erceg, Christopher J., Luca Guerrieri, and Christopher Gust. "Can Long-run Restrictions Identify Technology Shocks?" International Finance Discussion Paper 792, Federal Reserve Board (March 2005). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.federalreserve.gov/pubs/ifdp/2004/792/ifdp792r.pdf))
+Erceg, Christopher J., Luca Guerrieri, and Christopher Gust. "Can Long-run Restrictions Identify Technology Shocks?" International Finance Discussion Paper 792, Federal Reserve Board (March 2005). ([PDF](http://www.federalreserve.gov/pubs/ifdp/2004/792/ifdp792r.pdf))
 
-Uhlig, Harald. "What are the Effects of Monetary Policy on Output? Results From an Agnostic Identification Procedure." Mimeograph, Humboldt University (May 2004). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://home.uchicago.edu/~huhlig/papers/uhlig.jme.2005.pdf))
+Uhlig, Harald. "What are the Effects of Monetary Policy on Output? Results From an Agnostic Identification Procedure." Mimeograph, Humboldt University (May 2004). ([PDF](http://home.uchicago.edu/~huhlig/papers/uhlig.jme.2005.pdf))
 
 Blanchard, Olivier J. "Consumption and the Recession of 1990-1991." _The American Economic Review_ 83, no. 2 (May 1993): 270-274.
 
-Labhard, Vincent. "What Caused the 2000/01 Slowdown? Results From a VAR Analysis of G7 GDP Components." Working Paper no. 190, International Economic Analysis Division, Bank of England, 2003. ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=483443))
+Labhard, Vincent. "What Caused the 2000/01 Slowdown? Results From a VAR Analysis of G7 GDP Components." Working Paper no. 190, International Economic Analysis Division, Bank of England, 2003. ([PDF](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=483443))
 
 
 {{< tdclose >}}
@@ -116,13 +116,13 @@ Stock, James H., and Mark W. Watson. "[Implications of Dynamic Factor Models for
 
 ### Additional readings
 
-Forni, M., D. Giannone, M. Lippi, and L. Reichlin. "Opening the Black Box: Structural Factor Models with Large Cross-sections." European Central Bank Working Paper Series no. 712, January 2007. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ecb.int/pub/pdf/scpwps/ecbwp712.pdf))
+Forni, M., D. Giannone, M. Lippi, and L. Reichlin. "Opening the Black Box: Structural Factor Models with Large Cross-sections." European Central Bank Working Paper Series no. 712, January 2007. ([PDF](http://www.ecb.int/pub/pdf/scpwps/ecbwp712.pdf))
 
 Giannone, Domenico, and Lucrezia Reichlin, "Does Information Help Recovering Structural Shocks From Past Observations?" _Journal of the European Economic Association_ 4, nos. 2-3 (2006): 455-465.
 
 Bernanke, Ben, Jean Boivin, and Piotr S. Eliasz. "Measuring the Effects of Monetary Policy; A Factor Augmented Vector Autoregressive (FAVAR) Approach." _The Quarterly Journal of Economics_ 120, no. 1 (2005): 387-422.
 
-Gabaix, Xavier. "The Granular Origins of Aggregate Fluctuations." Mimeograph, Massachusetts Institute of Technology (December 2005). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://stellar.mit.edu/S/course/14/sp07/14.462/courseMaterial/topics/topic1/readings/gabaix_granular_2005/gabaix_granular_2005.pdf))
+Gabaix, Xavier. "The Granular Origins of Aggregate Fluctuations." Mimeograph, Massachusetts Institute of Technology (December 2005). ([PDF](http://stellar.mit.edu/S/course/14/sp07/14.462/courseMaterial/topics/topic1/readings/gabaix_granular_2005/gabaix_granular_2005.pdf))
 
 
 {{< tdclose >}}
@@ -145,7 +145,7 @@ Technology versus demand shocks
 
 Beaudry, Paul, and Franck Portier. "[Stock Prices, News, and Economic Fluctuations](http://www.nber.org/papers/W10548)." National Bureau of Economic Research Working Paper No. 10548, March 2004.
 
-Lorenzoni, Guido. "[A Theory of Demand Shocks](http://economics.mit.edu/files/3758/)." Mimeograph, Massachusetts Institute of Technology (November 2006). ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://economics.mit.edu/files/3758/)
+Lorenzoni, Guido. "[A Theory of Demand Shocks](http://economics.mit.edu/files/3758/)." Mimeograph, Massachusetts Institute of Technology (November 2006). ([PDF)](http://economics.mit.edu/files/3758/)
 
 ### Additional readings
 
@@ -155,7 +155,7 @@ Beaudry, Paul, and Franck Portier. "[The 'News' View of Economic Fluctuations; E
 
 Barsky, Robert, and Eric R. Sims. "Information Shocks, Animal Spirits, and the Meaning of Innovations in Consumer Confidence." Mimeograph, University of Michigan (June 2006).
 
-Christiano, Lawrence, Roberto Motto, and Massimo Rostagno. "Monetary Policy and Stock Market Boom-Bust Cycles." Mimeograph, (November 2006). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ecb.int/events/pdf/conferences/cbc4/ChristianoRostagnoMotto.pdf))
+Christiano, Lawrence, Roberto Motto, and Massimo Rostagno. "Monetary Policy and Stock Market Boom-Bust Cycles." Mimeograph, (November 2006). ([PDF](http://www.ecb.int/events/pdf/conferences/cbc4/ChristianoRostagnoMotto.pdf))
 
 Jaimovich, Nir, and Sérgio Rebelo. "Can News About the Future Drive the Business Cycle?" Centre for Economic Policy Research Discussion Paper Series No. 5877 (October 2006).
 
@@ -186,17 +186,17 @@ Blanchard, Olivier, and John Simon. "The Long and Large Decline in U.S. Output V
 
 Ahmed, Shaghil, Andrew T. Levin, and Beth Anne Wilson. "Recent U.S. Macroeconomic Stability: Good Policies, Good Practices, or Good Luck?'' _Review of Economics and Statistics_ 86 (2004): 824-832.
 
-Canova, Fabio, and Luca Gambetti. "Structural Changes in the U.S. Economy: Bad Luck or Bad Policy?'' Centre for Economic Policy Research Discussion Paper No. 5457 (January 2006). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://pdfs.semanticscholar.org/6f3f/46317de7f60bb07a443e6e12df6a48786600.pdf?_ga=2.202723346.2016510353.1566239404-159250059.1566239404))
+Canova, Fabio, and Luca Gambetti. "Structural Changes in the U.S. Economy: Bad Luck or Bad Policy?'' Centre for Economic Policy Research Discussion Paper No. 5457 (January 2006). ([PDF](https://pdfs.semanticscholar.org/6f3f/46317de7f60bb07a443e6e12df6a48786600.pdf?_ga=2.202723346.2016510353.1566239404-159250059.1566239404))
 
-Galí, Jordi, and L. Gambetti. "On the Sources of the Great Moderation." (June 2007). ([![This resource may not render correctly in a screen reader.](/images/inacessible.gif)PDF)](http://dept.ku.edu/~empirics/Courses/Econ850/Papers/On%20the%20Sources%20of%20the%20Great%20Moderation.pdf)
+Galí, Jordi, and L. Gambetti. "On the Sources of the Great Moderation." (June 2007). ([PDF)](http://dept.ku.edu/~empirics/Courses/Econ850/Papers/On%20the%20Sources%20of%20the%20Great%20Moderation.pdf)
 
-Stiroh, Kevin J. "Volatility Accounting: A Production Perspective on Increased Economic Stability." Federal Reserve Bank of New York Staff Report no. 245 (April 2006). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.newyorkfed.org/research/staff_reports/sr245.pdf))
+Stiroh, Kevin J. "Volatility Accounting: A Production Perspective on Increased Economic Stability." Federal Reserve Bank of New York Staff Report no. 245 (April 2006). ([PDF](http://www.newyorkfed.org/research/staff_reports/sr245.pdf))
 
 Comin, Diego, and Thomas Philippon. "[The Rise in Firm-Level Volatility; Causes and Consequences](http://www.nber.org/papers/w11388)." (with comments by Acemoglu, and by Eberly). _National Bureau of Economic Research Macroeconomics Annual_ (2005): 167-228.
 
 Davis, Steven J., John Haltiwanger, Ron Jarmin, and Javier Miranda. "[Volatility and Dispersion in Business Growth Rates; Publicly Traded Versus Privately Held Firms](http://papers.nber.org/papers/w12354)." National Bureau of Economic Research Working Paper No. 12354, June 2006.
 
-Jaimovich, Nir, and Henry E. Siu. "The Young, the Old, and the Restless. Demographics and Business Cycle Volatility." Mimeograph, Stanford (October 2006). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://repec.org/sed2006/up.6522.1140049707.pdf))
+Jaimovich, Nir, and Henry E. Siu. "The Young, the Old, and the Restless. Demographics and Business Cycle Volatility." Mimeograph, Stanford (October 2006). ([PDF](http://repec.org/sed2006/up.6522.1140049707.pdf))
 
 
 {{< tdclose >}}
@@ -231,7 +231,7 @@ Blanchard, Olivier. "European Unemployment: The Evolution of Facts and Ideas." _
 
 ### Additional readings
 
-Bartelsman, E., J. Haltiwanger, and S. Scarpetta. "Microeconomic Evidence of Creative Destruction in Industrial and Developing Countries." Mimeograph, Maryland (October 2004). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://siteresources.worldbank.org/INTWDR2005/Resources/creative_destruction.pdf))
+Bartelsman, E., J. Haltiwanger, and S. Scarpetta. "Microeconomic Evidence of Creative Destruction in Industrial and Developing Countries." Mimeograph, Maryland (October 2004). ([PDF](http://siteresources.worldbank.org/INTWDR2005/Resources/creative_destruction.pdf))
 
 Ohanian Lee, Andrea Raffo, and Richard Rogerson. "[Long Term Changes in Labor Supply and Taxes. Evidence from OECD Countries, 1956-2004](http://www.nber.org/papers/w12786)." National Bureau of Economic Research Working Paper No. 12786, December 2006.
 
@@ -268,7 +268,7 @@ Shimer, Robert. Lecture notes for a course on "Labor Markets and Macroeconomics.
 
 Acemoglu, K. Daron, and Robert Shimer. "Holdups and Efficiency with Search Frictions." _International Economic Review_ 40, no. 4 (November 1999).
 
-Fahr, René, and Uwe Sunde. "Did the Hartz Reforms Speed Up Job Creation? A Macro-evaluation Using Empirical Matching Functions." IZA Discussion Paper 2470 (November 2006). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](ftp://repec.iza.org/RePEc/Discussionpaper/dp2470.pdf))
+Fahr, René, and Uwe Sunde. "Did the Hartz Reforms Speed Up Job Creation? A Macro-evaluation Using Empirical Matching Functions." IZA Discussion Paper 2470 (November 2006). ([PDF](ftp://repec.iza.org/RePEc/Discussionpaper/dp2470.pdf))
 
 
 {{< tdclose >}}
@@ -299,13 +299,13 @@ Lazear, Edward P., and Robert E. Hall. "The Excess Sensitivity of Layoffs and Qu
 
 Bertola, Giuseppe, and Richard Rogerson. "Institutions and Labor Reallocation." _European Economic Review_ 41 (June 1997): 1147-1161.
 
-Gielen, Anne C., and Jan C. van Ours. "Why Do Worker-Firm Matches Dissolve?'' Centre for Economic Policy Research Discussion Paper 5739 (July 2006). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](ftp://repec.iza.org/RePEc/Discussionpaper/dp2165.pdf))
+Gielen, Anne C., and Jan C. van Ours. "Why Do Worker-Firm Matches Dissolve?'' Centre for Economic Policy Research Discussion Paper 5739 (July 2006). ([PDF](ftp://repec.iza.org/RePEc/Discussionpaper/dp2165.pdf))
 
 Blanchard, Olivier, and Pedro Portugal. "What Hides Behind an Unemployment Rate: Comparing Portuguese and U.S. Labor Markets." _American Economic Review_ (March 2001): 187-207.
 
-Pierre, Gaëlle, and Stefano Scarpetta. "Employment Regulations Through the Eyes of Employers; Do They Matter and How do Firms Respond to Them?" IZA Discussion Paper 1424 (December 2004). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](ftp://repec.iza.org/RePEc/Discussionpaper/dp1424.pdf))
+Pierre, Gaëlle, and Stefano Scarpetta. "Employment Regulations Through the Eyes of Employers; Do They Matter and How do Firms Respond to Them?" IZA Discussion Paper 1424 (December 2004). ([PDF](ftp://repec.iza.org/RePEc/Discussionpaper/dp1424.pdf))
 
-L'Haridon Olivier, and Franck Malherbet. "Employment Protection Reform in Search Economies." IZA Discussion Paper 2304 (September 2006). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](ftp://repec.iza.org/RePEc/Discussionpaper/dp2304.pdf))
+L'Haridon Olivier, and Franck Malherbet. "Employment Protection Reform in Search Economies." IZA Discussion Paper 2304 (September 2006). ([PDF](ftp://repec.iza.org/RePEc/Discussionpaper/dp2304.pdf))
 
 Autor, David H., William R. Kerr, and Adriana D. Kluger. "Do Employment Protections Reduce Productivity? Evidence from U.S. States." National Bureau of Economic Research Working Paper No. 12860, January 2007.
 
@@ -336,7 +336,7 @@ Role of institutions II: Trust, hold-ups, and bargaining
 
 Blanchard, Olivier, and Thomas Philippon. "[The Quality of Labor Relations and Unemployment](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=559203#PaperDownload)." Massachusetts Institute of Technology Department of Economics Working Paper 04-25, November 2006.
 
-Algan, Yann, and Pierre Cahuc. "The Roots of Low European Unemployment: Family Culture?" IZA Discussion Paper 1683 (July 2005). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](ftp://repec.iza.org/RePEc/Discussionpaper/dp1683.pdf))
+Algan, Yann, and Pierre Cahuc. "The Roots of Low European Unemployment: Family Culture?" IZA Discussion Paper 1683 (July 2005). ([PDF](ftp://repec.iza.org/RePEc/Discussionpaper/dp1683.pdf))
 
 
 {{< tdclose >}}
@@ -435,7 +435,7 @@ Smets, Frank, and Raf Wouters. "An Estimated Dynamic Stochastic General Equilibr
 
 Gertler, Mark, and Antonella Trigari. "An Estimated Monetary DSGE Model with Unemployment and Staggered Nominal Wage Setting." Mimeograph, New York University (November 2006).
 
-Del Negro, M., F. Schorfheide, F. Smets, and R. Wouters. "On the Fit and Forecasting Performance of New Keynesian Models." European Central Bank, Working Paper Series No. 491, June 2005. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 1.0 MB](http://www.ecb.int/pub/pdf/scpwps/ecbwp491.pdf))
+Del Negro, M., F. Schorfheide, F. Smets, and R. Wouters. "On the Fit and Forecasting Performance of New Keynesian Models." European Central Bank, Working Paper Series No. 491, June 2005. ([PDF - 1.0 MB](http://www.ecb.int/pub/pdf/scpwps/ecbwp491.pdf))
 
 Canova, Fabio, and Luca Sala. "Back to Square One: Identification Issues in DSGE Models." Mimeograph, Centre de Recerca en Economia Internacional (September 2006).
 
@@ -488,7 +488,7 @@ Beaudry, P. and F. Portier. "[The 'News' View of Economic Fluctuations; Evidence
 
 Barsky, R. and E. Sims. "Information Shocks, Animal Spirits, and the Meaning of Innovations in Consumer Confidence." Mimeograph, University of Michigan (June 2006).
 
-Christiano, L., R. Motto, and M. Rostagno. "Monetary Policy and Stock Market Boom-Bust Cycles." Mimeograph, November 2006 (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.ecb.int/events/pdf/conferences/cbc4/ChristianoRostagnoMotto.pdf))
+Christiano, L., R. Motto, and M. Rostagno. "Monetary Policy and Stock Market Boom-Bust Cycles." Mimeograph, November 2006 ([PDF](http://www.ecb.int/events/pdf/conferences/cbc4/ChristianoRostagnoMotto.pdf))
 
 Jaimovich, J., and S. Rebelo. "[Can News the Future Drive the Business Cycle?](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=953825##)" Centre for Economic Policy Research Discussion Paper Series No. 5877, October 2006.
 
@@ -517,7 +517,7 @@ Tirole, Jean. _The Theory of Corporate Finance_. Princeton, NJ: Princeton Univer
 
 Clementi, Gian Luca, and Hugo A. Hopenhayn. "A Theory of Financing Constraints and Firm Dynamics." _Quarterly Journal of Economics_ 121, no. 1 (2006): 229-265.
 
-Dow, James, Gary Gorton, and Arvind Krishnamurthy. "Equilibrium Investment and Asset Prices under Imperfect Corporate Control." _American Economic Review_ 95, no. 3 (2005): 659-681. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://www.nber.org/papers/w9758))
+Dow, James, Gary Gorton, and Arvind Krishnamurthy. "Equilibrium Investment and Asset Prices under Imperfect Corporate Control." _American Economic Review_ 95, no. 3 (2005): 659-681. ([PDF](https://www.nber.org/papers/w9758))
 
 ### Additional readings
 
@@ -544,7 +544,7 @@ Q theory
 
 ### Required readings
 
-Abel, Andrew B., and Janice C. Eberly. "Q Theory without Adjustment Costs & Cash Flow Effects without Financing Constraints." Society for Economic Dynamics, 2004. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://finance.wharton.upenn.edu/~abel/pdf_files_papers/CashFlow-posted.pdf))
+Abel, Andrew B., and Janice C. Eberly. "Q Theory without Adjustment Costs & Cash Flow Effects without Financing Constraints." Society for Economic Dynamics, 2004. ([PDF](http://finance.wharton.upenn.edu/~abel/pdf_files_papers/CashFlow-posted.pdf))
 
 Lorenzoni, Guido, and Karl Walentin. "[Financial Frictions, Investment and Tobin's q](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=983421)." MIT Department of Economics Working Paper No. 07-16, April 2007.
 
@@ -573,7 +573,7 @@ Bubbly asset prices and investment
 
 ### Required readings
 
-Gilchrist, Simon, Charles P. Himmelberg, and Gur Huberman. "Do Stock Price Bubbles Influence Corporate Investment?" _Journal of Monetary Economics_ 52, no. 4 (2005): 805-827. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://people.bu.edu/sgilchri/research/jme_05.pdf))
+Gilchrist, Simon, Charles P. Himmelberg, and Gur Huberman. "Do Stock Price Bubbles Influence Corporate Investment?" _Journal of Monetary Economics_ 52, no. 4 (2005): 805-827. ([PDF](http://people.bu.edu/sgilchri/research/jme_05.pdf))
 
 Chirinko, Robert S., and Huntley Schaller. "Business Fixed Investment and "Bubbles": The Japanese Case." _American Economic Review_ 91, no. 3 (2001): 663-680.
 
@@ -595,7 +595,7 @@ Baker, Malcolm, Jeremy C. Stein, and Jeffrey Wurgler. "When Does the Market Matt
 
 Bernanke, Ben, and Mark Gertler. "[Monetary Policy and Asset Price Volatility](http://www.nber.org/papers/W7559)." National Bureau of Economic Research Working Paper No. 7559, February 2000.
 
-Dupor, William. "Nominal Price versus Asset Price Stabilization." Wharton School of the University of Pennsylvania Working Paper, August 2002. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](http://www.phil.frb.org/research-and-data/events/2001/fed-policy-forum/papers/dupor_spid_nov01.pdf))
+Dupor, William. "Nominal Price versus Asset Price Stabilization." Wharton School of the University of Pennsylvania Working Paper, August 2002. ([PDF](http://www.phil.frb.org/research-and-data/events/2001/fed-policy-forum/papers/dupor_spid_nov01.pdf))
 
 Bordo, Michael D., and Olivier Jeanne. "[Boom-Busts in Asset Prices, Economic Instability, and Monetary Policy](http://www.nber.org/papers/8966)." National Bureau of Economic Research Working Paper No. 8966, May 2002.
 
@@ -642,7 +642,7 @@ Search models
 Countercyclical liquidity premia
 {{< tdclose >}}
 {{< tdopen >}}
-Guerrieri, Veronica, and Guido Lorenzoni. "Liquidity and Spending Dynamics." Mimeograph, University of California, Los Angeles (2007). (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF](https://ideas.repec.org/p/red/sed007/468.html))
+Guerrieri, Veronica, and Guido Lorenzoni. "Liquidity and Spending Dynamics." Mimeograph, University of California, Los Angeles (2007). ([PDF](https://ideas.repec.org/p/red/sed007/468.html))
 {{< tdclose >}}
 
 {{< trclose >}}
